@@ -2,7 +2,6 @@
 
 body {
     font-family: $myfont-family-base;
-    font-weight: $font-weight-base;
     font-size: $font-size-base;
     line-height: $lineheight-base;
     background-color: $body-bg;
@@ -11,8 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $myfont-family-title;
-    font-weight: $font-weight-bold;
-    font-family: 'Anton';
+    font-family: "Anton";
 }
 
 h1 {
